@@ -1,0 +1,2 @@
+케글 cpu gpu 비교
+https://www.kaggle.com/code/marychin/catboost-lightgbm-xgboost-cpu-vs-gpu
